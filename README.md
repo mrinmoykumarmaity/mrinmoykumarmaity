@@ -4,7 +4,6 @@ I am a BCA 5th Semester student currently in the learning phase of software deve
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/mrinmoykumarmaity/) 
-[![portfolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://python-developer-portfolio-site.vercel.app/)) 
 
 
 # 💻 Tech Stack:
